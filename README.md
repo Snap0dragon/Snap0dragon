@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/Snap0dragon/Snap0dragon/refs/heads/main/2.jpg)
 <h1 align="center">Hi 👋, I'm Nayeb</h1>
 <h3 align="center">A passionate computer vision and design verification engineer from Bangladesh</h3>
 
